@@ -1,9 +1,9 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=DmitryShalaev&theme=darkhub&rank=-SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DmitryShalaev&theme=juicyfresh&rank=-SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=DmitryShalaev&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img height="200" src="https://streak-stats.demolab.com?user=DmitryShalaev&theme=highcontrast&card_width=800">
 </p>
 
 --- 
@@ -14,5 +14,5 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=DmitryShalaev&style=for-the-badge&color=lightgrey&abbreviated=true" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=DmitryShalaev&style=for-the-badge&color=lightgrey&abbreviated=true"/>
 </div>

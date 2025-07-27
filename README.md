@@ -3,7 +3,8 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryShalaev&theme=github_dark" />
     </a>
     <a href="https://wakatime.com/@DmitryShalaev" alt="Wakatime">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DmitryShalaev&theme=github_dark&qq" />
+        <!--START_SECTION:waka-->
+        <!--END_SECTION:waka-->
     </a>
     <br />
     <a href="#" alt="Profile stats">

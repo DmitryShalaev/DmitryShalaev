@@ -1,16 +1,16 @@
 <p align="center">
     <a href="#" alt="Profile detail">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryShalaev&theme=transparent" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryShalaev&theme=github_dark" />
     </a>
     <a href="https://wakatime.com/@DmitryShalaev" alt="Wakatime">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DmitryShalaev&theme=transparent&qq" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DmitryShalaev&theme=github_dark&qq" />
     </a>
     <br />
     <a href="#" alt="Profile stats">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryShalaev&theme=transparent" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryShalaev&theme=github_dark" />
     </a>
     <a href="#" alt="Productive time">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitryShalaev&theme=transparent&utcOffset=3" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitryShalaev&theme=github_dark&utcOffset=3" />
     </a>
     <hr />
     <a href="#" alt="Counter">

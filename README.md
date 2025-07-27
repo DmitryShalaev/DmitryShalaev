@@ -11,7 +11,7 @@ C#       0 secs          █████████▒░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-    </a>
+</a>
     <br />
     <a href="#" alt="Profile stats">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryShalaev&theme=github_dark" />

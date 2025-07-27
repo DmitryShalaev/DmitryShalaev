@@ -4,7 +4,13 @@
     </a>
     <a href="https://wakatime.com/@DmitryShalaev" alt="Wakatime">
         <!--START_SECTION:waka-->
-        <!--END_SECTION:waka-->
+
+```txt
+Binary   0 secs          ███████████████▓░░░░░░░░░   62.12 %
+C#       0 secs          █████████▒░░░░░░░░░░░░░░░   37.88 %
+```
+
+<!--END_SECTION:waka-->
     </a>
     <br />
     <a href="#" alt="Profile stats">

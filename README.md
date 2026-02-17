@@ -6,8 +6,8 @@
 <p align="center">
   <img width="405" alt="Stats"
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryShalaev&theme=github_dark" />
-  <img width="405" alt="Productive time (Berlin=UTC+1)"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitryShalaev&theme=github_dark&utcOffset=1" />
+  <img width="405" alt="Productive time (UTC+3)"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitryShalaev&theme=github_dark&utcOffset=3" />
 </p>
 
 <p align="center">

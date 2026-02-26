@@ -14,7 +14,5 @@
   <img alt="Profile views"
        src="https://komarev.com/ghpvc/?username=DmitryShalaev&style=for-the-badge&color=lightgrey&abbreviated=true" />
   <br/>
-  <a href="https://t.me/DmitryShalaev">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@DmitryShalaev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+ 
 </p>
